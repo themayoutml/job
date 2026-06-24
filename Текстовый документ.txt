@@ -1,0 +1,4 @@
+admin@diplom.local
+admin123
+admin@job.local
+admin123
